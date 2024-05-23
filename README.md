@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahedere Tebebe</h1>
 <h3 align="center">A passionate Frontend developer from Ethiopia</h3>
 
-- 🔭 I’m currently working on [Manage-landing-page](https://github.com/Mahedere/manage-landing-page)
+- 🔭 I’m currently working on [Mahedere Portfolio](https://github.com/Mahedere/Mahedere_Portfolio)
 
 - 🌱 I’m currently learning **ReactJS,Vite,TailwindCSS**
 
