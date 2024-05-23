@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Manage-landing-page](https://github.com/Mahedere/manage-landing-page)
 
-- 🌱 I’m currently learning **React,Vite,TailwindCSS**
+- 🌱 I’m currently learning **ReactJS,Vite,TailwindCSS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-two-beta-24.vercel.app/](https://portfolio-two-beta-24.vercel.app/)
 
