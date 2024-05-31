@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **ReactJS,Vite,TailwindCSS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-two-beta-24.vercel.app/](https://portfolio-two-beta-24.vercel.app/)
-
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **mahederetebebe98@gmail.com**
