@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahedere Tebebe</h1>
-<h3 align="center">A passionate Frontend developer from Ethiopia</h3>
+<h3 align="center">A Frontend developer from Ethiopia</h3>
 
 - 🔭 I’m currently working on [Mahedere Portfolio](https://github.com/Mahedere/Mahedere_Portfolio)
 
