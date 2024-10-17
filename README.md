@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahedere Tebebe</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
-- 🔭 I’m currently working on [inventory_management_system]([https://github.com/Mahedere/Pomodoro_react_app](https://github.com/Mahedere/inventory_management_system.git)])
+- 🔭 I’m currently working on [inventory_management_system]([https://github.com/Mahedere/inventory_management_system.git])
 
 - 🌱 I’m currently learning **ReactJS,Vite,TailwindCSS**
 
