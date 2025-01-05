@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahedere Tebebe</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
-- 🔭 I’m currently working on [Social media platform]([https://github.com/KaleabHegie/Social-Media-Platform])
+- 🔭 I’m currently working on [Social media platform]((https://github.com/KaleabHegie/Social-Media-Platform))
 
 - 🌱 I’m currently learning **ReactJS,Vite,TailwindCSS**
 
