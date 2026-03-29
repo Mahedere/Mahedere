@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Social media platform]((https://github.com/KaleabHegie/Social-Media-Platform))
 
-- 🌱 I’m currently learning **ReactJS,Vite,TailwindCSS**
+- 🌱 I’m currently learning **Nuxt, ReactJS,Vite,TailwindCSS**
 
 - 💬 Ask me about **JavaScript**
 
